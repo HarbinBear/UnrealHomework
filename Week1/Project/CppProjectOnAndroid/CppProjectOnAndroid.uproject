@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E6FBD719-4BC2-DB6E-013C-1D87B5484D36}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "CppProjectOnAndroid",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
