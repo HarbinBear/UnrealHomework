@@ -10,5 +10,5 @@ apk安装包和视频另存于[腾讯微云](https://share.weiyun.com/EpKobQ9D)
 [游戏项目](https://github.com/HarbinBear/UnrealHomework/tree/main/Week2/Netshoot)UE版本为4.27.2，视频存于[腾讯微云](https://share.weiyun.com/RwftTERJ)
 
 ## 第四周
-[游戏项目]()UE版本为4.27.2。
+[游戏项目](https://github.com/HarbinBear/UnrealHomework/tree/main/Week4/MobileTPS)UE版本为4.27.2。apk安装包与视频另存于[腾讯微云](https://share.weiyun.com/YvdgNKKn)。
 
