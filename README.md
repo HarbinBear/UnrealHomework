@@ -10,10 +10,10 @@ apk安装包和视频另存于[腾讯微云](https://share.weiyun.com/EpKobQ9D)
 [游戏项目](https://github.com/HarbinBear/UnrealHomework/tree/main/Week2/Netshoot)UE版本为4.27.2，视频存于[腾讯微云](https://share.weiyun.com/RwftTERJ)
 
 ## 第四周
-[游戏项目](https://github.com/HarbinBear/UnrealHomework/tree/main/Week4/MobileTPS)UE版本为4.27.2。其中投掷手雷功能实现在第六周的作业中了。apk安装包与视频另存于[腾讯微云](https://share.weiyun.com/YvdgNKKn)。
+[游戏项目](https://github.com/HarbinBear/UnrealHomework/tree/main/Week4/MobileTPS)UE版本为4.27.2。apk安装包与视频另存于[腾讯微云](https://share.weiyun.com/YvdgNKKn)。
 
 ## 第五周
-[游戏项目](https://github.com/HarbinBear/UnrealHomework/tree/main/Week5/Shooter)UE版本为4.27.2。视频另存于[腾讯微云](https://share.weiyun.com/ZtZsiB1d)。
+[游戏项目](https://github.com/HarbinBear/UnrealHomework/tree/main/Week5/Shooter)UE版本为4.27.2。其中投掷手雷功能实现在第六周的作业中了。视频另存于[腾讯微云](https://share.weiyun.com/ZtZsiB1d)。
 
 ## 第六周
 视频和游戏项目另存于[腾讯微云](https://share.weiyun.com/CmbU4HRY)。
