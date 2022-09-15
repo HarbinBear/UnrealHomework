@@ -21,7 +21,8 @@ apk安装包和视频另存于[腾讯微云](https://share.weiyun.com/EpKobQ9D)
 ## 第七周
 [游戏项目](https://github.com/HarbinBear/UnrealHomework/tree/main/Week7/Shooter)UE版本为4.27.2。视频另存于[腾讯微云](https://share.weiyun.com/ZpYYpOIb)。
 
-
+## 第八周
+视频和游戏项目另存于[腾讯微云](https://share.weiyun.com/b3ue6fKq)。
 
 
 
