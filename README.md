@@ -1,6 +1,6 @@
 # UnrealHomework
 
-这是放腾讯课作业的仓库，[腾讯微云目录](https://share.weiyun.com/Lf1lw0Vz)。
+这是放腾讯课作业的仓库，后面几周的项目文件夹太大了，就放在腾讯微云了，[腾讯微云目录](https://share.weiyun.com/Lf1lw0Vz)。
 
 ## 第一周 UE4入门
 [游戏项目](https://github.com/HarbinBear/UnrealHomework/tree/main/Week1/Project/CppProjectOnAndroid)UE版本为4.27.2，打包后的[apk](https://github.com/HarbinBear/UnrealHomework/blob/main/Week1/Android_ASTC/CppProjectOnAndroid-armv7.apk)为Android_ASTC平台。
