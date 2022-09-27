@@ -61,6 +61,6 @@ apk安装包和视频另存于[腾讯微云](https://share.weiyun.com/EpKobQ9D)
 - [x] 实现多种性格的AI，在行为上有一定的差异，每种行为实现一个单独的行为树。
 
 ## 大作业
-视频与游戏项目存于[腾讯微云](https://share.weiyun.com/YsfXwK7R)
-键位：WASD移动。Q投掷手雷。R换弹。空格翻滚。alt自由视角。鼠标左键开火，右键瞄准。
-规则：单机1v1射击。
+视频与游戏项目存于[腾讯微云](https://share.weiyun.com/YsfXwK7R)。    
+键位：WASD移动。Q投掷手雷。R换弹。空格翻滚。alt自由视角。鼠标左键开火，右键瞄准。    
+规则：单机1v1射击。    
