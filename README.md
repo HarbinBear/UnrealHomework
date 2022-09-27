@@ -54,10 +54,13 @@ apk安装包和视频另存于[腾讯微云](https://share.weiyun.com/EpKobQ9D)
 - [x] 对局时间为10分钟。
 
 ## 第九周 AI技术
-视频和游戏项目另存于[腾讯微云](https://share.weiyun.com/sDiXaHAo)
+视频存于[腾讯微云](https://share.weiyun.com/sDiXaHAo)，游戏项目存于[腾讯微云](https://share.weiyun.com/YsfXwK7R)。
 - [x] 实现AI的基础行为节点，包括寻敌、移动、开火、躲避。
 - [x] 支持黑板变量在节点之前共享数据。
 - [x] 基于行为树来组织节点逻辑。
 - [x] 实现多种性格的AI，在行为上有一定的差异，每种行为实现一个单独的行为树。
 
-
+## 大作业
+视频与游戏项目存于[腾讯微云](https://share.weiyun.com/YsfXwK7R)
+键位：WASD移动。Q投掷手雷。R换弹。空格翻滚。alt自由视角。鼠标左键开火，右键瞄准。
+规则：单机1v1射击。
